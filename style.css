@@ -1,0 +1,90 @@
+h1 {
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(80, 167, 34);
+    margin-left: 32%;
+    margin-right: 32%;
+    border-radius: 30px;
+}
+
+h2 {
+    text-align: left;
+    color: blue;
+
+}
+
+p {
+    color: rgb(107, 0, 0);
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+body {
+    color: aqua;
+}
+
+footer {
+    color: blue;
+    text-align: justify;
+}
+
+button {
+    color: black;
+    background-color: red;
+}
+
+marquee {
+    color: black;
+    background-color: rgb(9, 172, 190);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+    background-color: orange;
+    margin: 3px;
+    padding: 2px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+form {
+    color: black;
+    margin: 10px;
+    text-align: justify;
+
+}
+
+table {
+    color: black;
+    border: 2px solid black;
+    width: 600px;
+    background-color: rgb(148, 164, 148);
+}
+
+h4 {
+    color: darkred;
+    text-align: center;
+}
+
+img {
+    border: red;
+    border-radius: 20px;
+}
+
+header {
+    text-align: center;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(80, 167, 34);
+    margin-left: 37%;
+    margin-right: 37%;
+    border-radius: 30px;
+    font-size: 2em;
+}
+
+caption {
+    color: blue;
+    font-size: 1.3em;
+}
